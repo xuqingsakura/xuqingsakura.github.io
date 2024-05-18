@@ -1,3 +1,6 @@
+http://xuqingsakura.github.io/tags/index.html
+http://xuqingsakura.github.io/link/index.html
+http://xuqingsakura.github.io/categories/index.html
 http://xuqingsakura.github.io/2024/05/18/test-md/
 http://xuqingsakura.github.io/2024/05/17/hello-world/
 http://xuqingsakura.github.io/
